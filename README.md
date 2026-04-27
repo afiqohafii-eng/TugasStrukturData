@@ -1,6 +1,6 @@
 # Tugas Personal 2 - Struktur Data
 
-## 📌 Deskripsi
+##  Deskripsi
 
 Program ini dibuat untuk memenuhi tugas mata kuliah Struktur Data dengan topik:
 
@@ -11,7 +11,7 @@ Bahasa yang digunakan adalah Java.
 
 ---
 
-## 🔹 1. Program Linked List (Data Buku)
+##  1. Program Linked List (Data Buku)
 
 Fitur:
 
@@ -28,7 +28,7 @@ Struktur:
 
 ---
 
-## 🔹 2. Program Stack & Queue (Sistem Kasir)
+##  2. Program Stack & Queue (Sistem Kasir)
 
 Fitur:
 
@@ -62,18 +62,18 @@ java MainKasir
 
 ---
 
-## 📌 Catatan
+##  Catatan
 
 Program dibuat dengan konsep sederhana sesuai materi perkuliahan dan sudah diuji berjalan tanpa error.
 
 ---
 
-## 👤 Author
+##  Author
 
 Nama: (Afiqoh A Imatul Muntaha)
 NIM: (# Tugas Personal 2 - Struktur Data
 
-## 📌 Deskripsi
+##  Deskripsi
 
 Program ini dibuat untuk memenuhi tugas mata kuliah Struktur Data dengan topik:
 
@@ -84,7 +84,7 @@ Bahasa yang digunakan adalah Java.
 
 ---
 
-## 🔹 1. Program Linked List (Data Buku)
+##  1. Program Linked List (Data Buku)
 
 Fitur:
 
@@ -101,7 +101,7 @@ Struktur:
 
 ---
 
-## 🔹 2. Program Stack & Queue (Sistem Kasir)
+##  2. Program Stack & Queue (Sistem Kasir)
 
 Fitur:
 
@@ -135,13 +135,13 @@ java MainKasir
 
 ---
 
-## 📌 Catatan
+##  Catatan
 
 Program dibuat dengan konsep sederhana sesuai materi perkuliahan dan sudah diuji berjalan tanpa error.
 
 ---
 
-## 👤 Author
+##  Author
 
 Nama: (Afiqoh A Imatul Muntaha
 )
